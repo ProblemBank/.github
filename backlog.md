@@ -82,3 +82,6 @@ https://martinfowler.com/articles/microservice-testing/
 ## نظر
 - در مورد دیزاین پترن هایی که استفاده کردم بگم
 - در مورد کلین کد ها و اون سایت گرو حرف بزنم
+
+
+## ci/cd
