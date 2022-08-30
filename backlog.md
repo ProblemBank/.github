@@ -85,3 +85,6 @@ https://martinfowler.com/articles/microservice-testing/
 
 
 ## ci/cd
+
+تاریخچه‌ی تغییراتش رو ببینم:
+https://gozine2.ir/Services/Assessment/Student
